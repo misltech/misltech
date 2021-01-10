@@ -4,7 +4,6 @@
 ### 
 ### 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=misltech&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misltech&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
