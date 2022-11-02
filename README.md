@@ -1,29 +1,15 @@
-### Hi there! I'm Tahir and this is my repo 👋
+                               ___    __                  __         
+                   __         /\_ \  /\ \__              /\ \        
+          ___ ___ /\_\    ____\//\ \ \ \ ,_\    __    ___\ \ \___    
+        /' __` __`\/\ \  /',__\ \ \ \ \ \ \/  /'__`\ /'___\ \  _ `\  
+        /\ \/\ \/\ \ \ \/\__, `\ \_\ \_\ \ \_/\  __//\ \__/\ \ \ \ \ 
+        \ \_\ \_\ \_\ \_\/\____/ /\____\\ \__\ \____\ \____\\ \_\ \_\
+         \/_/\/_/\/_/\/_/\/___/  \/____/ \/__/\/____/\/____/ \/_/\/_/
 
-### 
-### 
-### 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misltech&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+                                                             
+                                                             
+                                                             
 
 
+#### You are the ![Profile views](https://gpvc.arturio.dev/misltech)  viewer
 
-
-### You are the 
-![Profile views](https://gpvc.arturio.dev/misltech)  viewer
-
-### (est 2/1/22)
-<!--
-**misltech/misltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
