@@ -7,9 +7,4 @@
          \/_/\/_/\/_/\/_/\/___/  \/____/ \/__/\/____/\/____/ \/_/\/_/
 
                                                              
-                                                             
-                                                             
-
-
-#### You are the ![Profile views](https://gpvc.arturio.dev/misltech)  viewer
-
+                                                                                              
